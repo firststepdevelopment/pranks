@@ -1,0 +1,25 @@
+==================================================================
+Steps to annoying your friends...
+.
+1.)Go to your start menu.
+2.)Type "regedit" without the quotations.
+3.)Open Regedit
+4.)Select Files,
+.Computer
+	.HKEY_CURRENT_USER
+		.Software
+			.Microsoft
+				.Windows
+					.Current Version
+						.Run
+.
+5.)//Right Click
+6.)New > String Value
+7.)Right click on the new String Value
+8.)Right Click > Modify...
+9.)Name the Value and type in the directory of the prank.
+10.)Test out this prank...
+.
+.
+.
+Thank you for using Prank_Package
